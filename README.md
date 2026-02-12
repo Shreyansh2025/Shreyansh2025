@@ -15,7 +15,7 @@ I am a Computer Science student passionate about **Systems Engineering** and **F
 </p>
 
 ### 📈 GitHub Stats
-![Shreyansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyansh2025&show_icons=true&theme=radical)
+![Shreyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shreyansh2025&show_icons=true&theme=radical)
 
 <!--
 **Shreyansh2025/Shreyansh2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
