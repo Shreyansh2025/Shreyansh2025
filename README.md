@@ -2,7 +2,6 @@
 
 I am a Computer Science student (Class of 2027) passionate about **Systems Engineering** and **Full Stack Development**. I enjoy building high-performance applications and leveraging AI to solve real-world problems.
 
-- 🔭 **Currently Building:** A High-Performance File Compressor in C++ (utilizing Huffman Coding) and exploring AI integrations.
 - 🌱 **Currently Learning:** Advanced Data Structures & Algorithms in C++ and refining my skills in the MERN stack & Next.js.
 - 💼 **Experience & Community:** GATE 2026 Qualified, Google Gemini Student Ambassador, and former Frontend Web Development Intern.
 - 👯 **Looking to Collaborate on:** Open-source C++ projects and AI-driven web applications.
@@ -32,9 +31,9 @@ I am a Computer Science student (Class of 2027) passionate about **Systems Engin
 </p>
 
 ### 🚀 Featured Projects
+*   **Second Brain:** A personal knowledge management application built using React to efficiently organize thoughts, resources, and tasks.
 *   **Kishan-AI:** An AI-powered agricultural assistant built with React.
 *   **File Compression Tool:** A C++ utility leveraging binary trees and min-heaps for efficient data compression.
-*   **Spotify-to-YouTube Automator:** A Python-based integration utilizing the Spotify API to automate playlist conversions.
 
 ### 📈 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-beta-rust.vercel.app?user=Shreyansh2025&theme=dark-smoky)](https://git.io/streak-stats)
