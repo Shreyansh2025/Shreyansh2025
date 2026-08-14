@@ -36,7 +36,6 @@ I am a Computer Science student (Class of 2027) passionate about **Systems Engin
 *   **File Compression Tool:** A C++ utility leveraging binary trees and min-heaps for efficient data compression.
 
 ### 📈 GitHub Stats
-[![GitHub Streak](https://github-readme-streak-stats-beta-rust.vercel.app?user=Shreyansh2025&theme=github-dark-dimmed)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats-beta-rust.vercel.app?user=Shreyansh2025)](https://git.io/streak-stats)
 ---
 📫 **Let's Connect:** https://www.linkedin.com/in/shreyansh-surana-009206322/ | shreyanshsurana100@gmail.com]
